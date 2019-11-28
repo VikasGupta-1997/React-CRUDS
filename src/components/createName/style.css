@@ -1,0 +1,39 @@
+.main-div{
+    background-color:#ceb829;
+    width:100%;
+    text-align: center;
+} */
+ .form{
+    display: inline-block;
+   
+}
+.xyz{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+ .name-input{
+    border: 2px solid #fff;
+    border-radius:25px;
+    margin:0px 5px 0px 0px;
+    width:50%;
+    color:#da0067; 
+    padding:8px;
+    background-color:#baba68;
+    outline:none;
+}
+.submit-btn{
+    border:2px solid #fff;
+    width:10%;
+    border-radius:25px;
+    background-color: #879ba0;
+    padding:8px;
+    outline:none;
+}
+.submit-btn:hover{
+    background-color:green;
+    outline:none;
+}
+
+
+
